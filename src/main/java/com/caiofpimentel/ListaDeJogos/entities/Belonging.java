@@ -10,7 +10,7 @@ import lombok.Setter;
 
 
 @Entity
-@Table(name = "tb_beloging")
+@Table(name = "tb_belonging")
 @Getter
 @Setter
 @EqualsAndHashCode
