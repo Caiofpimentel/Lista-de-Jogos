@@ -12,7 +12,7 @@ Este é um projeto de cadastro e listagem de jogos, desenvolvido com **Java 21**
 
 - Java 21
 - Spring Boot
-- Spring Data JPA
+- Spring Data JPA/Hibernate
 - Banco de dados H2
 - Lombok
 
